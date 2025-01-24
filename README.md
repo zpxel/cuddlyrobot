@@ -38,3 +38,5 @@ copy that and go back to your terminal paste that to post id***
 **Step 10 : Enter the delay type 1**
 
 **END***
+# BUY ME A COFFEE ☕☕ 
+0928-496-2794 GCASH
