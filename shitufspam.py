@@ -1,4 +1,4 @@
-# You can buy me a coffee 09284962794 gcash
+# You can buy me a coffee ☕ 09284962794 gcash
 # https://www.github.com/zpxel
 # Time : Fri Jan 24 15:51:12 2025
 # -------------------------------
