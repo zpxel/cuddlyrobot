@@ -9,13 +9,22 @@ FIRST STEP
 
 **Step 3 : log in your facebook dummy account to your kiwi browser**
 
-**Step 4 : Click the 3 dots to kiwi browser and scroll down, you will see get token cookie. Click that get token cookie**
+**Step 4 : Click the 3 dots to kiwi browser and scroll down, you will see get token cookie. Click that get token cookie then copy your cookie**
 
-**Step 5 : Type nano cookie.txt erase all letters you see and paste your cookie**
+**Step 5 : Go back to your termux terminal. Type nano cookie.txt erase all letters you see and paste your cookie then press ctrl x to your terminal and press y then enter**
 **Step 6 : Run the python by typing this python shitufspam.py**
-**Step 7 : after you run that python, prompt will ask you. type cookie.txt**
+**Step 7 : after you run that python, prompt will ask you. type cookie.txt***
+
+like this 
+Enter file cookie:cookie.txt
+ 
+**type only cookie.txt***
+
+**
 **Step 8 : Paste the post id.*** 
-**Example 
+**
+
+Example 
 
 https://www.facebook.com/61572392674202/posts/122098689536746422/
 
