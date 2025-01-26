@@ -1,5 +1,5 @@
 # cuddlyrobot
-This tool can spam share a post using cookies and post id
+This tool can spam share a post in facebook using cookies and post id
 # How to use?
 FIRST STEP
 
