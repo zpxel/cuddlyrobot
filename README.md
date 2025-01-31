@@ -12,11 +12,8 @@ FIRST STEP
 **Step 4 : Click the 3 dots to kiwi browser and scroll down, you will see get token cookie. Click that get token cookie then copy your cookie**
 
 **Step 5 : Go back to your termux terminal. Type nano cookie.txt erase all letters you see and paste your cookie then press ctrl x to your terminal and press y then enter**
-**Step 6 : Run the python by typing this python shitufspam.py**
-**Step 7 : after you run that python, prompt will ask you. type cookie.txt***
-
-like this 
-Enter file cookie:cookie.txt
+**Step 6 : Run the python by typing this python fire1_enc.py**
+**Step 7 : after you run that python, prompt will ask you the key
  
 **type only cookie.txt***
 
